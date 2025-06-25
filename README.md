@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Moatasem Nagy</h1>
+
 <p align="center">
   <a href="https://github.com/moatasemnagy">
     <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Moatasem Nagy" width="200" height="200" style="border-radius: 50%;" />
@@ -10,6 +12,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Flutter+Developer+%F0%9F%93%B1;Cross-platform+Apps+for+Android+%26+iOS;Clean+UI%2FUX+%7C+State+Management+%7C+Firebase;Turning+Ideas+into+Real+Apps" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 <!-- Social icons section -->
