@@ -20,9 +20,6 @@
   <a href="https://www.linkedin.com/in/eng-moatasem-nagy/" target="_blank">
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:moatasemnagy3@gmail.com" target="_blank">
-  <img width="40px" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" />
-</a>
   <a href="https://wa.me/201018134103" target="_blank">
     <img width="40px" src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp" />
   </a>
