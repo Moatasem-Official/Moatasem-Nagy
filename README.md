@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Moatasem Nagy</h1>
+<br><br>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=600&lines=I'm+Moatasem%2C+a+Flutter+App+Developer.;I+build+fast+%26+beautiful+Android+iOS+apps.;Specialized+in+clean+UI+%2F+UX+and+Firebase+integration.;Skilled+in+Bloc%2C+Provider%2C+and+RESTful+APIs.;Let+me+turn+your+idea+into+a+real+mobile+app!" alt="Typing animation" />
+  </a>
+</p>
 
 <div align="center" width="50">
 
@@ -6,13 +13,6 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
 </div>
-
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=600&lines=I'm+Moatasem%2C+a+Flutter+App+Developer.;I+build+fast+%26+beautiful+Android+iOS+apps.;Specialized+in+clean+UI+%2F+UX+and+Firebase+integration.;Skilled+in+Bloc%2C+Provider%2C+and+RESTful+APIs.;Let+me+turn+your+idea+into+a+real+mobile+app!" alt="Typing animation" />
-  </a>
-</p>
 
 
 
