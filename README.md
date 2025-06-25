@@ -54,17 +54,17 @@
 <div align="center">
 
   <!-- الصف العلوي -->
-  <img src="https://raw.githubusercontent.com/USERNAME/profile-summary-cards/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg" style="width: 32.5%; height: 180px; object-fit: contain; border-radius: 10px;"/>
-  <img src="https://raw.githubusercontent.com/USERNAME/profile-summary-cards/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg" style="width: 32.5%; height: 180px; object-fit: contain; border-radius: 10px;"/>
-  <img src="https://raw.githubusercontent.com/USERNAME/profile-summary-cards/master/profile-summary-card-output/nord_bright/3-stats.svg" style="width: 32.5%; height: 180px; object-fit: contain; border-radius: 10px;"/>
+  <img src="https://raw.githubusercontent.com/Moatasem-Nagy/profile-summary-cards/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg" style="width: 32.5%; height: 180px; object-fit: contain; border-radius: 10px;"/>
+  <img src="https://raw.githubusercontent.com/Moatasem-Nagy/profile-summary-cards/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg" style="width: 32.5%; height: 180px; object-fit: contain; border-radius: 10px;"/>
+  <img src="https://raw.githubusercontent.com/Moatasem-Nagy/profile-summary-cards/master/profile-summary-card-output/nord_bright/3-stats.svg" style="width: 32.5%; height: 180px; object-fit: contain; border-radius: 10px;"/>
 
   <!-- فاصل -->
   <br><br>
 
   <!-- الصف السفلي -->
-  <img src="https://raw.githubusercontent.com/USERNAME/profile-summary-cards/master/profile-summary-card-output/nord_bright/4-commit-per-hour.svg" style="width: 32.5%; height: 180px; object-fit: contain; border-radius: 10px;"/>
-  <img src="https://raw.githubusercontent.com/USERNAME/profile-summary-cards/master/profile-summary-card-output/nord_bright/5-people.svg" style="width: 32.5%; height: 180px; object-fit: contain; border-radius: 10px;"/>
-  <img src="https://raw.githubusercontent.com/USERNAME/profile-summary-cards/master/profile-summary-card-output/nord_bright/0-profile-details.svg" style="width: 32.5%; height: 180px; object-fit: contain; border-radius: 10px;"/>
+  <img src="https://raw.githubusercontent.com/Moatasem-Nagy/profile-summary-cards/master/profile-summary-card-output/nord_bright/4-commit-per-hour.svg" style="width: 32.5%; height: 180px; object-fit: contain; border-radius: 10px;"/>
+  <img src="https://raw.githubusercontent.com/Moatasem-Nagy/profile-summary-cards/master/profile-summary-card-output/nord_bright/5-people.svg" style="width: 32.5%; height: 180px; object-fit: contain; border-radius: 10px;"/>
+  <img src="https://raw.githubusercontent.com/Moatasem-Nagy/profile-summary-cards/master/profile-summary-card-output/nord_bright/0-profile-details.svg" style="width: 32.5%; height: 180px; object-fit: contain; border-radius: 10px;"/>
 
 </div>
 
