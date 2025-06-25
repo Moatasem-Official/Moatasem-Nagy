@@ -59,60 +59,56 @@
 </p>
 
 <details open> 
-  <summary><h2>🌠 Top Sponsors</h2></summary>
+  <summary><h2>📱 My Top Flutter Projects</h2></summary>
 
-  <table>
-    <tr>
-      <!-- <th>$10+/month</th> -->
-      <th>$5+/month</th>
-    </tr>
-    <tr>
-      <!-- $10+/month -->
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/username"><img src="https://github.com/username" alt="@username" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/username"><b>Full Name</b></a>
-        </b>
-      </td> -->
-      <!-- $5+/month -->
-      <td>
-        <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
-      </td>
-    </tr>
-  </table>
-
-  <a href="https://github.com/sponsors/DenverCoder1/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
-</details>
-
-<details open> 
-  <summary><h2>📘 My Top Flutter Projects</h2></summary>
-
-  <!-- Flutter app repo cards -->
   <p align="left">
-    <a href="https://github.com/moatasemnagy/mix-cafe-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=moatasemnagy&repo=mix-cafe-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Mix Cafe App"></a>
-    <a href="https://github.com/moatasemnagy/flutter-login-ui"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=moatasemnagy&repo=flutter-login-ui&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Flutter Login UI"></a>
-    <a href="https://github.com/moatasemnagy/restaurant-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=moatasemnagy&repo=restaurant-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Restaurant App"></a>
-    <a href="https://github.com/moatasemnagy/quiz-app-flutter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=moatasemnagy&repo=quiz-app-flutter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Quiz App"></a>
+    <!-- Add your featured Flutter projects here -->
+    <a href="https://github.com/moatasemnagy/mix-cafe-app">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=moatasemnagy&repo=mix-cafe-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Mix Cafe App" />
+    </a>
+    
+    <a href="https://github.com/moatasemnagy/flutter-login-ui">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=moatasemnagy&repo=flutter-login-ui&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Flutter Login UI" />
+    </a>
+    
+    <a href="https://github.com/moatasemnagy/restaurant-app">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=moatasemnagy&repo=restaurant-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Restaurant App" />
+    </a>
+    
+    <a href="https://github.com/moatasemnagy/quiz-app-flutter">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=moatasemnagy&repo=quiz-app-flutter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Quiz App" />
+    </a>
   </p>
 
-  <a href="https://github.com/moatasemnagy?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
+  <p align="center">
+    <a href="https://github.com/moatasemnagy?tab=repositories&sort=stargazers">
+      <img alt="All Repositories" title="Browse All My Projects" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Projects-1F222E?style=for-the-badge&logo=repo&logoColor=white" />
+    </a>
+  </p>
 </details>
 
+---
+
 <details open> 
-  <summary><h2>📕 Projects I've Contributed To</h2></summary>
+  <summary><h2>🤝 Projects I've Contributed To</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/flutter/flutter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=flutter&repo=flutter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Flutter"></a>
-    <a href="https://github.com/firebase/flutterfire"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=firebase&repo=flutterfire&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FlutterFire"></a>
-    <a href="https://github.com/FlutterCommunity/plus_plugins"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FlutterCommunity&repo=plus_plugins&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Flutter Plus Plugins"></a>
+    <a href="https://github.com/flutter/flutter">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=flutter&repo=flutter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Flutter" />
+    </a>
+
+    <a href="https://github.com/firebase/flutterfire">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=firebase&repo=flutterfire&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="FlutterFire" />
+    </a>
+
+    <a href="https://github.com/FlutterCommunity/plus_plugins">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FlutterCommunity&repo=plus_plugins&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Flutter Plus Plugins" />
+    </a>
   </p>
 
-  <p align="left">
+  <p align="center">
     <a href="https://github.com/moatasemnagy?tab=repositories&type=fork">
-      <img alt="All Forks" title="All Forked Repos" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/>
+      <img alt="All Forks" title="My Open Source Contributions" src="https://custom-icon-badges.demolab.com/badge/-View%20My%20Forks-1F222E?style=for-the-badge&logo=fork&logoColor=white" />
     </a>
   </p>
 </details>
