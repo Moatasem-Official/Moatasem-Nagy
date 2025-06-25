@@ -51,18 +51,8 @@
 | 📱 **Platforms**             | `Android`, `iOS`, `Web (Flutter)`, `Windows`, `Linux`, `macOS` |
 
 <div align="center" >
-<a  href="https://github.com/SP-XD">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-
 <a href="https://github.com/moatasem-nagy">
-  <img src="https://raw.githubusercontent.com/moatasem-nagy/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-  <img src="https://raw.githubusercontent.com/moatasem-nagy/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-  <img src="https://raw.githubusercontent.com/moatasem-nagy/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+  <img src="https://camo.githubusercontent.com/dc6cbb650e377f8b14b73d29f3e82f665aee3cebf31c4d567252feb4c92d7327/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d766e376e3234667a6b71267468656d653d746f6b796f6e69676874" width="32.5%">
 </a>
 
 
