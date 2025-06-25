@@ -1,19 +1,10 @@
 <h1 align="center">Hi 👋, I'm Moatasem Nagy</h1>
 
 <p align="center">
-  <a href="https://github.com/moatasemnagy">
-    <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Moatasem Nagy" width="200" height="200" style="border-radius: 50%;" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Flutter+Developer+%F0%9F%93%B1;Cross-platform+Apps+for+Android+%26+iOS;Clean+UI%2FUX+%7C+State+Management+%7C+Firebase;Turning+Ideas+into+Real+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=600&lines=I'm+Moatasem%2C+a+Flutter+App+Developer.;I+build+fast+%26+beautiful+Android+iOS+apps.;Specialized+in+clean+UI+%2F+UX+and+Firebase+integration.;Skilled+in+Bloc%2C+Provider%2C+and+RESTful+APIs.;Let+me+turn+your+idea+into+a+real+mobile+app!" alt="Typing animation" />
   </a>
 </p>
-
-
 
 <!-- Social icons section -->
 <p align="center">
@@ -24,8 +15,6 @@
     <img width="40px" src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp" />
   </a>
 </p>
-
-
 
 <br/>
 
