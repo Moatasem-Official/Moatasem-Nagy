@@ -41,19 +41,48 @@
 
 <div align="center">
 
-
-
-<div align="center">
-| Category                     | Tools                                                          |
-| ---------------------------- | -------------------------------------------------------------- |
-| 💻 **Programming Languages** | `Dart`, `Python`, `JavaScript`, `Java`, `C`            |
-| 🎨 **UI/UX & Markup**        | `HTML`, `CSS`, `JSON`                              |
-| 🗄️ **Databases**            | `Firebase (Firestore & Realtime DB)`                 |
-| 🧰 **Frameworks & Tools**    | `Flutter`, `Bloc`, `Provider`, `REST APIs`                     |
-| 🖥️ **IDEs & Editors**       | `VS Code`, `Xcode`, `Android Studio`                 |
-| 🛠️ **Dev Tools**            | `Git`, `Figma`               |
-| 🧪 **Testing**               | `Unit Testing`, `Integration Testing`, `Widget Testing`        |
-| 📱 **Platforms**             | `Android`, `iOS`, `Web (Flutter)`, `Windows`, `Linux`, `macOS` |
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>💻 <strong>Programming Languages</strong></td>
+      <td><code>Dart</code>, <code>Python</code>, <code>JavaScript</code>, <code>Java</code>, <code>C</code></td>
+    </tr>
+    <tr>
+      <td>🎨 <strong>UI/UX & Markup</strong></td>
+      <td><code>HTML</code>, <code>CSS</code>, <code>JSON</code></td>
+    </tr>
+    <tr>
+      <td>🗄️ <strong>Databases</strong></td>
+      <td><code>Firebase (Firestore & Realtime DB)</code></td>
+    </tr>
+    <tr>
+      <td>🧰 <strong>Frameworks & Tools</strong></td>
+      <td><code>Flutter</code>, <code>Bloc</code>, <code>Provider</code>, <code>REST APIs</code></td>
+    </tr>
+    <tr>
+      <td>🖥️ <strong>IDEs & Editors</strong></td>
+      <td><code>VS Code</code>, <code>Xcode</code>, <code>Android Studio</code></td>
+    </tr>
+    <tr>
+      <td>🛠️ <strong>Dev Tools</strong></td>
+      <td><code>Git</code>, <code>Figma</code></td>
+    </tr>
+    <tr>
+      <td>🧪 <strong>Testing</strong></td>
+      <td><code>Unit Testing</code>, <code>Integration Testing</code>, <code>Widget Testing</code></td>
+    </tr>
+    <tr>
+      <td>📱 <strong>Platforms</strong></td>
+      <td><code>Android</code>, <code>iOS</code>, <code>Web (Flutter)</code>, <code>Windows</code>, <code>Linux</code>, <code>macOS</code></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
