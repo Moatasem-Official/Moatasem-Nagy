@@ -6,6 +6,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.png" alt="Moatasem | Flutter Developer Banner" />
+</p>
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/eng-moatasem-nagy/" target="_blank">
