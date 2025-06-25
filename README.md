@@ -22,9 +22,9 @@
 
 <!-- GitHub Star link -->
 <p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+  <img src="https://i.imgur.com/dBaSKWF.png" alt="Moatasem | Flutter Developer Banner" />
 </p>
+
 
 <details open> 
   <summary><h2>📱 My Top Flutter Projects</h2></summary>
