@@ -90,6 +90,7 @@
 
   <!-- الصف العلوي -->
   <img src="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg" width="32.5%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moatasem-Nagy&theme=tokyonight&exclude=java,rust,jupyter%20Notebook" width="32.5%">
   <img src="https://camo.githubusercontent.com/e60bde4e10298e2bd954cac61c3ebbe9c592c8b564fc034f31c180a3c795b342/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d766e376e3234667a6b71267468656d653d6e6f72645f627269676874" width="32.5%">
   <!-- فاصل -->
   <br><br>
