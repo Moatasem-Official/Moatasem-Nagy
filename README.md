@@ -39,6 +39,11 @@
 
 <hr></hr>
 
+<div align="center">
+
+
+
+<div align="center">
 | Category                     | Tools                                                          |
 | ---------------------------- | -------------------------------------------------------------- |
 | 💻 **Programming Languages** | `Dart`, `Python`, `JavaScript`, `Java`, `C`            |
@@ -50,8 +55,7 @@
 | 🧪 **Testing**               | `Unit Testing`, `Integration Testing`, `Widget Testing`        |
 | 📱 **Platforms**             | `Android`, `iOS`, `Web (Flutter)`, `Windows`, `Linux`, `macOS` |
 
-
-<div align="center">
+</div>
 
   <!-- الصف العلوي -->
   <img src="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg" width="32.5%">
@@ -62,7 +66,6 @@
   <!-- الصف السفلي -->
   <img src="https://camo.githubusercontent.com/90482aea9b61a9072a768d9b22c5f65e397e7067b183dd4aa8d6e55d5bca64c9/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d766e376e3234667a6b71267468656d653d6e6f72645f62726967687426" width="32.5%">
   <img src="https://camo.githubusercontent.com/e9ac0f4ebe5fab5e7b4797bdcacf5ca068d8fdc0563cfbd364b1198861852ccf/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f647563746976652d74696d653f757365726e616d653d766e376e3234667a6b71267468656d653d6e6f72645f627269676874267574634f66667365743d38" width="32.5%">
- <img align="center" src="https://raw.githubusercontent.com/Moatasem-Nagy/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
 </div>
 
