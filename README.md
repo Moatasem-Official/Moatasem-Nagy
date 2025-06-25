@@ -2,7 +2,6 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
@@ -42,20 +41,24 @@
 
 | Category                     | Tools                                                          |
 | ---------------------------- | -------------------------------------------------------------- |
-| 💻 **Programming Languages** | `Dart`, `Python`, `Go`, `JavaScript`, `Java`, `C++`            |
-| 🎨 **UI/UX & Markup**        | `HTML`, `CSS`, `Markdown`, `JSON`                              |
-| 🗄️ **Databases**            | `Firebase (Firestore & Realtime DB)`, `SQLite`                 |
+| 💻 **Programming Languages** | `Dart`, `Python`, `JavaScript`, `Java`, `C`            |
+| 🎨 **UI/UX & Markup**        | `HTML`, `CSS`, `JSON`                              |
+| 🗄️ **Databases**            | `Firebase (Firestore & Realtime DB)`                 |
 | 🧰 **Frameworks & Tools**    | `Flutter`, `Bloc`, `Provider`, `REST APIs`                     |
-| 🖥️ **IDEs & Editors**       | `VS Code`, `Xcode`, `Android Studio`, `Neovim`                 |
-| 🛠️ **Dev Tools**            | `Git`, `Figma`, `Photoshop`, `GIMP`, `Lightroom`               |
+| 🖥️ **IDEs & Editors**       | `VS Code`, `Xcode`, `Android Studio`                 |
+| 🛠️ **Dev Tools**            | `Git`, `Figma`               |
 | 🧪 **Testing**               | `Unit Testing`, `Integration Testing`, `Widget Testing`        |
 | 📱 **Platforms**             | `Android`, `iOS`, `Web (Flutter)`, `Windows`, `Linux`, `macOS` |
 
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently focusing on **Flutter & Clean UI Development**.  
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> &nbsp;&nbsp;&nbsp; Passionate about exploring **Firebase & Backend Integration**.  
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/linux.gif?raw=true" width="25" /> &nbsp;&nbsp; I enjoy customizing **GNU/Linux** environments.  
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> &nbsp;&nbsp; Ask me about **Flutter, State Management (Bloc/Provider), or UI Challenges**.  
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Contact me on WhatsApp: **[Click Here](https://wa.me/201018134103)**  
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="15%" />
+
+<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
